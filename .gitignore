@@ -1,4 +1,5 @@
 .venv/
 test.py
+test.txt
 __pycache__/
 *.py[cod]
